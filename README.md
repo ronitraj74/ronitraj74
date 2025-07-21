@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on [C++](https://github.com/Ronit049/Calculator-By-C-)
+- 🔭 I’m currently working on [PROJECT](https://github.com/Ronit049/BLINKIT-store-placement-prediction-project-)
 
 - 🌱 I’m currently learning **Python, Java Script etc.**
 
