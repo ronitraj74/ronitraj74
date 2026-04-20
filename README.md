@@ -1,3 +1,4 @@
+hi!
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7C300&width=435&lines=Welcome%2C+to+my+Github+Profile;I'm+a+Web+Developer+and+more" alt="Typing SVG" /></a>
   <h1 align="center"> Hi there, I'm Ronit Raj</a> </h1>
